@@ -10,6 +10,11 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
+#red
+{
+  background-color: red;
+}
+
 #violet {
   background-color: blue;
 }
